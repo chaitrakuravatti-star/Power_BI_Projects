@@ -1,8 +1,10 @@
 **Project Overview**
+
 This Power BI project presents a detailed Indian Premier League (IPL) Analysis covering seasons from 2008 to 2025.
 The dashboard provides insights into season performance, team standings, player achievements, and match statistics, enabling cricket fans and analysts to explore IPL data interactively.
 
 **Business Objective**
+
 The objectives of this dashboard are to:
 1.	Analyze IPL season-wise performance and outcomes
 2.	Identify season winners and runner-up teams
@@ -12,6 +14,7 @@ The objectives of this dashboard are to:
 6.	Summarize match statistics for each IPL season
 
 **Tools & Technologies Used**
+
 1.	Power BI Desktop
 2.	Power Query – Data cleaning and transformation
 3.	DAX – Calculated measures and KPIs
@@ -27,6 +30,7 @@ The objectives of this dashboard are to:
 
 
 **Visualizations Used**
+
 •  KPI Cards: Matches, Teams, Sixes, Fours, Centuries
 •  Table Visual: Points Table (Played, Won, Lost, NR, Tie, Points)
 •  Card Visuals: Season Winner & Runner-Up
@@ -39,6 +43,7 @@ The objectives of this dashboard are to:
 
 
 **Key Insights**
+
 1.	IPL seasons show consistent competitiveness across teams
 2.	Certain teams frequently appear in top standings
 3.	Boundary count (4s & 6s) varies significantly by season
