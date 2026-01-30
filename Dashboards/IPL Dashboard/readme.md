@@ -59,6 +59,7 @@ The objectives of this dashboard are to:
 5.	Points table effectively summarizes team consistency and performa
 
 **Author**
+
 Created by: Chaitra Kuravatti
 
 LinkedIn: (https://www.linkedin.com/in/chaitra-kuravatti-aa918b143/)
