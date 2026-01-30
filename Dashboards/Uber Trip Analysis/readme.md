@@ -70,8 +70,9 @@ KPIs (Filtered View):**
 
 •	Average Trip Distance: 3 miles
 
-**Visuals Included:
-**
+**Visuals Included:**
+
+
 •	Total booking value by pickup time
 
 •	Booking value by day of week
@@ -83,26 +84,28 @@ KPIs (Filtered View):**
 
 **3️⃣ Details Page**
 
-**Granular trip-level data view
+****Granular trip-level data view**
 
-Features:
-**
+**Features:**
+
+
 •	Complete trip transaction table
 
 •	Sorting & filtering by:
-
-o	Date
-
-o	Vehicle
-
-o	Payment type
-
-o	Pickup & drop-off location
+  
+    o	Date
+    
+    o	Vehicle
+    
+    o	Payment type
+    
+    o	Pickup & drop-off location
 
 •	Useful for auditing, validation, and deep-dive analysis
 
-**Key Insights
-**
+**Key Insights**
+
+
 •	UberX is the most preferred vehicle type across locations
 
 •	Majority of bookings occur during day trips
@@ -117,6 +120,8 @@ o	Pickup & drop-off location
 
 
 **Tools & Technologies Used**
+
+
 •	Power BI Desktop
 
 •	DAX (for calculated measures & KPIs)
@@ -142,8 +147,8 @@ o	Total & Average Trip Distance
 
 •	Optimized relationships for slicer performance
 
-**Filters & Interactivity
-**
+**Filters & Interactivity**
+
 
 •	Pickup Date range slicer
 
