@@ -5,50 +5,51 @@ The dashboard enables stakeholders to monitor operational efficiency and identif
 
 **Business Objective**
 
-The primary objectives of this project are to:
-Analyze the total number of calls attended in a month
-Measure call handling efficiency using duration and response time KPIs
-Track SLA compliance (Within SLA vs Above SLA)
-Identify peak call days and high-volume regions
-Understand call distribution by city, state, channel, and reason
-Provide detailed call-level data for deeper analysis
+1.	The primary objectives of this project are to:
+2.	Analyze the total number of calls attended in a month
+3.	Measure call handling efficiency using duration and response time KPIs
+4.	Track SLA compliance (Within SLA vs Above SLA)
+5.	Identify peak call days and high-volume regions
+6.	Understand call distribution by city, state, channel, and reason
+7.	Provide detailed call-level data for deeper analysis
 
 **Tools & Technologies Used**
 
-Power BI Desktop
-Power Query – Data cleaning and transformation
-DAX – KPI calculations and business logic
-CSV – Input data source
+1.	Power BI Desktop
+2.	Power Query – Data cleaning and transformation
+3.	DAX – KPI calculations and business logic
+4.	CSV – Input data source
 
 **Dashboard Features**
 
-Interactive KPI cards for quick performance monitoring
-Date, City, and Channel slicers for dynamic filtering
-Cross-filtering and visual interactions
-Drill-through functionality for detailed analysis
-Page navigator buttons for seamless navigation
-Dedicated Grid page for detailed tabular data view
+1.	Interactive KPI cards for quick performance monitoring
+2.	Date, City, and Channel slicers for dynamic filtering
+3.	Cross-filtering and visual interactions
+4.	Drill-through functionality for detailed analysis
+5.	Page navigator buttons for seamless navigation
+6.	Dedicated Grid page for detailed tabular data view
 
 **Visualizations Used**
 
-Bar Chart: Total Calls by Day Name (to identify peak call days)
-Shape Map (Conditional Formatting): Total Calls by State
-Tree Map: Total Calls by Call Center City
-Donut Chart: Total Calls by Channel
-Donut Chart: Call Response Time (Within SLA / Above SLA)
-Clustered Bar Chart: Total Calls by Reason
-Column Chart: Total Calls by Customer Sentiment
+1.	Bar Chart: Total Calls by Day Name (to identify peak call days)
+2.	Shape Map (Conditional Formatting): Total Calls by State
+3.	Tree Map: Total Calls by Call Center City
+4.	Donut Chart: Total Calls by Channel
+5.	Donut Chart: Call Response Time (Within SLA / Above SLA)
+6.	Clustered Bar Chart: Total Calls by Reason
+7.	Column Chart: Total Calls by Customer Sentiment
 
 **Dashboard Pages**
 
 1️⃣ Home Page
 
 Provides a summarized view of call center performance including:
-Key KPIs
-Day-wise call trend analysis
-State-wise and city-wise call distribution
-Channel and response time breakdown
-Call reasons and sentiment analysis
+
+1.	Key KPIs
+2.	Day-wise call trend analysis
+3.	State-wise and city-wise call distribution
+4.	Channel and response time breakdown
+5.	Call reasons and sentiment analysis
 
 2️⃣ Grid Page
 
@@ -57,13 +58,14 @@ Customer Name, City, Channel, Day Name, Call Reason, Customer Sentiment, Respons
 
 **Key Insights**
 
-Weekdays receive higher call volumes compared to weekends
-Certain states and cities contribute significantly to total calls
-Call Center channel handles the majority of customer interactions
-Most calls fall within SLA, indicating good response efficiency
-Billing-related queries form the highest call reason category
+1.	Weekdays receive higher call volumes compared to weekends
+2.	Certain states and cities contribute significantly to total calls
+3.	Call Center channel handles the majority of customer interactions
+4.	Most calls fall within SLA, indicating good response efficiency
+5.	Billing-related queries form the highest call reason category
 
 Author
 
 Created by: Chaitra Kuravatti
+
 LinkedIn: (https://www.linkedin.com/in/chaitra-kuravatti-aa918b143/)
