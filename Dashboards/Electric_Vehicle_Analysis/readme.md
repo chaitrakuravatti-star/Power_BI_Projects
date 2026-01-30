@@ -7,69 +7,76 @@ The dashboard helps stakeholders understand EV growth trends, market leaders, ve
 
 The key objectives of this dashboard are to:
 
-Analyze total registered electric vehicles over time
+1. Analyze total registered electric vehicles over time
 
-Track EV growth trends by model year
+2. Track EV growth trends by model year
 
-Identify top manufacturers and models in the EV market
+3. Identify top manufacturers and models in the EV market
 
-Compare BEV and PHEV vehicle distribution
+4. Compare BEV and PHEV vehicle distribution
 
-Analyze EV distribution across states
+5. Analyze EV distribution across states
 
-Evaluate Clean Alternative Fuel Vehicle (CAFV) eligibility
+6. Evaluate Clean Alternative Fuel Vehicle (CAFV) eligibility
 
-Provide interactive filtering for deeper exploration
+7. Provide interactive filtering for deeper exploration
 
 **Tools & Technologies Used**
 
-Power BI Desktop
+1. Power BI Desktop
 
-Power Query – Data cleaning and transformation
+2. Power Query – Data cleaning and transformation
 
-DAX – KPI calculations and measures
+3. DAX – KPI calculations and measures
 
-CSV File – Input data source
+4. CSV File – Input data source
 
 **Dashboard Features**
 
-Interactive slicers for City, Electric Utility, and EV Type
+1. Interactive slicers for City, Electric Utility, and EV Type
 
-KPI cards for quick performance overview
+2. KPI cards for quick performance overview
 
-Cross-filtering across all visuals
+3. Cross-filtering across all visuals
 
-Dynamic trend analysis by model year
+4. Dynamic trend analysis by model year
 
-Visual comparison of BEV vs PHEV vehicles
+5. Visual comparison of BEV vs PHEV vehicles
 
-Manufacturer and model-level insights
+6. Manufacturer and model-level insights
 
 **Visualizations Used**
 
-Area Chart: Total Vehicles by Model Year (EV adoption trend)
+1. Area Chart: Total Vehicles by Model Year (EV adoption trend)
 
-Shape Map: Total Vehicles by State
+2. Shape Map: Total Vehicles by State
 
-Horizontal Bar Chart: Top 10 Total Vehicles by Make
+3. Horizontal Bar Chart: Top 10 Total Vehicles by Make
 
-Donut Chart: Vehicle Distribution by CAFV Eligibility
+4. Donut Chart: Vehicle Distribution by CAFV Eligibility
 
-Tree Map: Top 10 Total Vehicles by Model
+5. Tree Map: Top 10 Total Vehicles by Model
 
-Donut Charts: BEV vs PHEV vehicle distribution
+6. Donut Charts: BEV vs PHEV vehicle distribution
 
 
 **Key Insights**
 
-Significant growth in electric vehicle adoption in recent model years
+1. Significant growth in electric vehicle adoption in recent model years
 
-Battery Electric Vehicles (BEVs) dominate the EV market
+2. Battery Electric Vehicles (BEVs) dominate the EV market
 
-Tesla leads in total vehicle registrations among manufacturers
+3. Tesla leads in total vehicle registrations among manufacturers
 
-Model Y and Model 3 are the most popular EV models
+4. Model Y and Model 3 are the most popular EV models
 
-Majority of vehicles qualify under CAFV eligibility
+5. Majority of vehicles qualify under CAFV eligibility
 
-Certain states show higher EV adoption rates
+6. Certain states show higher EV adoption rates
+
+
+Author
+
+Created by: Chaitra Kuravatti
+
+LinkedIn: (https://www.linkedin.com/in/chaitra-kuravatti-aa918b143/)
