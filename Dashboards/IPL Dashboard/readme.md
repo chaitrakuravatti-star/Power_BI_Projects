@@ -32,13 +32,21 @@ The objectives of this dashboard are to:
 **Visualizations Used**
 
 •  KPI Cards: Matches, Teams, Sixes, Fours, Centuries
+
 •  Table Visual: Points Table (Played, Won, Lost, NR, Tie, Points)
+
 •  Card Visuals: Season Winner & Runner-Up
+
 •  Player Highlight Cards:
+
 1.	Orange Cap (Most Runs)
+
 2.	Purple Cap (Most Wickets)
+
 •  Stat Cards:
+
 1.	Total Fours in Season
+
 2.	Total Sixes in Season
 
 
