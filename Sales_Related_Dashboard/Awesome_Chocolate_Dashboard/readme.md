@@ -6,9 +6,6 @@ This Power BI dashboard provides a comprehensive view of sales and operational p
 
 The dashboard combines sales, cost, profit, shipment, and logistics-related metrics into a single interactive reporting solution, enabling data-driven decision-making.
 
-This Power BI dashboard provides a comprehensive view of sales and operational performance for Awesome Chocolates. It is designed to help business users, sales managers, and leadership teams monitor overall performance, track profitability, and evaluate individual sales contributions across products and regions.
-
-The dashboard combines sales, cost, profit, shipment, and logistics-related metrics into a single interactive reporting solution, enabling data-driven decision-making.
 _____________________________________________
 
 **Business Objectives**
