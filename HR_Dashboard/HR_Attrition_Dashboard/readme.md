@@ -1,4 +1,4 @@
-<hr> HR Attrition Analysis Dashboard</hr>
+<h1> HR Attrition Analysis Dashboard</h1>
 
 
 **Project Overview**
@@ -18,7 +18,6 @@ This Power BI project provides an in-depth HR Attrition Analysis to understand e
 •	Compare attrition metrics across male vs female employees
 ________________________________________
 
-**Overview – Attrition Summary**
 
 **1️⃣ Overview – Attrition Summary**
 
@@ -37,7 +36,7 @@ Provides a high-level view of attrition across the organization.
 •	Attrition by Gender & Marital Status
 
 •	Job Satisfaction Rating by Job Role
-________________________________________
+
 
 **Key Insights:**
 
@@ -46,7 +45,7 @@ ________________________________________
 •	Employees with lower salary hikes (11–15%) have higher attrition
 
 •	Poor work-life balance strongly correlates with attrition
-________________________________________
+
 **2️⃣ Gender & Age Analysis**
 Focuses on demographic-based attrition patterns.
 **Visuals Included:**
@@ -61,8 +60,6 @@ Focuses on demographic-based attrition patterns.
 •	Male attrition is higher than female across most tenure bands
 
 •	Early-career employees (0–3 years) show maximum exits
-
-________________________________________
 
 **3️⃣ Job & Tenure Analysis**
 
