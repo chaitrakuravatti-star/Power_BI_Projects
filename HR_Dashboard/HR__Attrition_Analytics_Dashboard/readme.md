@@ -1,4 +1,4 @@
-HR Analytics Dashboard – Power BI
+<H1>HR Analytics Dashboard – Power BI</H1>
 
 Project Overview
 
