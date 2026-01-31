@@ -26,54 +26,84 @@ _____________________________________________
 •	Support regional and product-
 _______________________________________________________
 
-**
-Key Dashboard Features**
+
+**Key Dashboard Features**
+
 🔹 **Executive KPI Summary**
-<ls>
-Overall sales performance
 
-Shipment and box volume overview
+•	Overall sales performance
 
-Cost and profit tracking
+•	Shipment and box volume overview
 
-Profitability and efficiency indicators
-<ls>
-🔹 **Sales Trend Analysis
-**
-Time-based analysis to understand sales movement
+•	Cost and profit tracking
 
-Monthly trend visualization to identify growth or decline patterns
+•	Profitability and efficiency indicatorslevel decision-making
 
-Comparison of performance across different periods
-**
-🔹 Shipment Analysis**
 
-Shipment volume distribution analysis
+🔹 **Sales Trend Analysis**
 
-Logistics efficiency monitoring
+•	Time-based analysis to understand sales movement
 
-Visual indicators to highlight shipment performance
+•	Monthly trend visualization to identify growth or decline patterns
+
+•	Comparison of performance across different periods
+
+
+**🔹 Shipment Analysis**
+
+•	Shipment volume distribution analysis
+
+•	Logistics efficiency monitoring
+
+•	Visual indicators to highlight shipment performance
+
 
 🔹 **Salesperson Performance Analysis**
 
-Individual salesperson contribution to sales and profit
+•	Individual salesperson contribution to sales and profit
 
-Profitability comparison across sales representatives
+•	Profitability comparison across sales representatives
 
-Performance indicators to quickly identify top and low performers
+•	Performance indicators to quickly identify top and low performers
 
 🔹** Product Category Analysis**
 
-Sales distribution across product categories
+•	Sales distribution across product categories
 
-Category-level performance comparison
+•	Category-level performance comparison
 
-Identification of strong and weak product segments
+•	Identification of strong and weak product segments
 
 🔹 **Geographic Analysis**
 
-Region-wise performance tracking
+•	Region-wise performance tracking
 
-Country-level comparison for global insights
+•	Country-level comparison for global insights
 
-Ability to filter and analyze specific markets
+•	Ability to filter and analyze specific markets
+
+______________________________________________________________________
+
+**Key Insights (High-Level)**
+
+•	Provides a clear view of overall business performance
+
+•	Highlights efficiency in shipment and logistics operations
+
+•	Enables comparison of sales and profit across individuals and regions
+
+•	Supports identification of trends and performance patterns
+
+_________________________________________________________________________
+
+**Tools & Technologies Used**
+
+•	Power BI Desktop – Dashboard development and visualization
+
+•	Power Query – Data cleaning and transformation
+
+•	DAX – Measures and calculated insights
+
+•	Data Modeling – Relationship management and performance optimization
+
+
